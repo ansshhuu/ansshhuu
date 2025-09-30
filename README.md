@@ -1,5 +1,5 @@
 ## Hi! I am Anshu ✨
-🎓 BTech 2nd year student specializing in Artificial Intelligence and Machine Learning (AIML)<br>
+🎓 BTech 3rd year student specializing in Artificial Intelligence and Machine Learning (AIML)<br>
 🤖 Currently learning Machine Learning<br>
 💻 Active in competitive programming<br>
 🔧 Developing backend development skills<br>
