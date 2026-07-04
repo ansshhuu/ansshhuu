@@ -526,12 +526,140 @@ Regular participant in hackathons focused on Artificial Intelligence, Software E
 
 ---
 
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://lowlighter/metrics.vercel.app/api?username=ansshhuu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=ansshhuu&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://lowlighter/metrics.vercel.app/api/top-langs/?username=ansshhuu&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=10"/>
+
+</div>
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ansshhuu&theme=tokyo-night&hide_border=true&radius=16"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ansshhuu/ansshhuu/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+currently:
+
+  learning:
+    - Advanced Data Structures & Algorithms
+    - System Design
+    - Distributed Systems
+    - Large Language Models
+    - AI Infrastructure
+    - Cloud Engineering
+
+  building:
+    - Lumora
+    - Production-grade RAG Systems
+    - Agentic AI Applications
+    - Developer Productivity Tools
+    - Open Source Projects
+
+  exploring:
+    - LangGraph
+    - MCP Servers
+    - Kubernetes
+    - Vector Databases
+    - Multi-Agent Systems
+    - AI Engineering Workflows
+
+  open_to:
+    - Software Engineering Internships
+    - AI/ML Engineering Internships
+    - Backend Development Roles
+    - Open Source Collaboration
+    - Research Opportunities
+    - Hackathons
+
+  ask_me_about:
+    - Python
+    - FastAPI
+    - LangChain
+    - LangGraph
+    - Docker
+    - Machine Learning
+    - RAG
+    - NLP
+    - Competitive Programming
+```
+
+---
+
 # Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://leetcode.com/u/aansshhuu/">
+<img src="https://img.shields.io/badge/LeetCode-aansshhuu-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://codeforces.com/profile/anshuuu">
+<img src="https://img.shields.io/badge/Codeforces-anshuuu-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="mailto:anshumona2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/ansshhuu">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+&nbsp;
+
+<a href="https://leetcode.com/u/aansshhuu/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 ---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:312E81,30:4F46E5,60:6D28D9,100:8B5CF6"/>
+
+</p>
+
+<div align="center">
+
+### Thanks for visiting!
+
+</div>
