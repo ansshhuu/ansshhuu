@@ -302,18 +302,14 @@ Regular participant in hackathons focused on Artificial Intelligence, Software E
 
 <div align="center">
 
-<img height="180em" src="https://lowlighter/metrics.vercel.app/api?username=ansshhuu&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&include_all_commits=true&count_private=true"/>
+ <img height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ansshhuu&theme=tokyonight" alt="GitHub Stats" />
+  <img height="150px" src="https://streak-stats.demolab.com?user=ansshhuu&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
 
-<img height="180em" src="https://streak-stats.demolab.com?user=ansshhuu&theme=tokyonight&hide_border=true&border_radius=15"/>
+  <br/><br/>
 
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://lowlighter/metrics.vercel.app/api/top-langs/?username=ansshhuu&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=10"/>
+  <img height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ansshhuu&theme=tokyonight" alt="Top Languages" />
 
 </div>
-
 # Contribution Activity
 
 <div align="center">
